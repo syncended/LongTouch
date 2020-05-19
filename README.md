@@ -1,6 +1,6 @@
 # LongTouch
 ## What is that?
-**Long Touch** is a android application, that allow you use your android device as Mouse.
+**Long Touch** is an android application, that allow you use your android device as Mouse.
 ## Prototype
 Prototype was [WifiMouseAndroid](https://github.com/syncended/WifiMouseAndroid). Old client has a lot of bugs, and written on Android Support Library.
 Few moments ago my notebook touchpad was broken, and I've understood how old client is uncomfortable.
